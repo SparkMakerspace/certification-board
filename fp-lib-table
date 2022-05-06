@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "cert-board")(type "KiCad")(uri "${KIPRJMOD}/cert-board.pretty")(options "")(descr ""))
+)
